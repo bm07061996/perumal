@@ -1,0 +1,30 @@
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+label.error {
+    color:red;
+}
+.profile {
+    border: 1px solid gray;
+    min-height: 400px;
+    margin: 40px;
+}
+.navbar a {
+    margin-left: 10px;
+}
+
+.page-footer {
+    margin-top: 30px;
+}
+#services thead,#services:first-child,#services:last-child {
+    text-align: center;
+}
